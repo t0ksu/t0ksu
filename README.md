@@ -8,9 +8,4 @@
     bossman.
 
 
-
-- 👋 Mops oon @t0ksu
-- 👀 Mä oon kiinnostunut Devauksesta!
-- 🌱 Yritän opetella devamaan tällä hetkellä :DD
-- 📫 Voit kysyä asioita minulta discordissa: t0ksu#8601
-
+discord t0ksu#8601
